@@ -6,7 +6,7 @@
 
 ![Screenshot of level with labeled planets.](img/shortcut-planets.png)
 
-# Strategy (by lgarron)
+# Strategy: Wait and Split (by lgarron)
 
 ## Steps
 
