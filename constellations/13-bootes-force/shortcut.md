@@ -4,22 +4,9 @@
 - Level: Insane
 - Nova Time: 5:45
 
-<img style="background:url(shortcut.png)" src="shortcut-planets.png" alt="Screenshot of level with labeled planets.">
-
+![Screenshot of level with labeled planets.](img/shortcut-planets.png)
 
 # Strategy (by lgarron)
-
-- Effort taken to beat NOVA time: 10 attempts
-- Best time: 4:08.1
-
-## Planets
-
-- A (max L3): Home Planet
-- B (max L1): Planet immediately north of A
-- C (max L2): Planet immediately north of B
-- D (max L3): Orange Home Planet
-- E (max L3): Green Home Planet
-- F (max L2): one of the lower side planets
 
 ## Steps
 
@@ -33,6 +20,11 @@
 8. Goal: F⇧2. One of the other players should be beating the other. Take their side planet on the bottom. Repeat (all)↠F. (≈3:15 elapsed)
 9. Goal: A⇧3. Repeat (all)↠A. (≈4:45 elapsed)
 10. Goal: wipe out all other planets. You should have more than enough units for this.
+
+## Stats
+
+- Effort taken to beat NOVA time: ≈10 attempts
+- Best time: 4:08.1
 
 ## Notes
 
