@@ -10,16 +10,18 @@
 
 ## Steps
 
-1. Goal: A⇧L3. Repeat A↠A.
-2. Goal: B⇧L1. Repeat A↠B.
-3. Goal: C⇧L2. Repeat (all)↠C. (≈0:45 elapsed)
-4. Goal: Hoard units on B. Repeat (all)↠B.
-5. Goal: Lose A and C. Wait for other players to wipe them out. (≈1:30 elapsed)
-6. Goal: D⇧3 and E⇧3. Split the units from B in half and send each one horizontally through the force field, then near their respective planets, and ambush. (≈2:00 elapsed)
-7. Goal: Take the remaining 4 planets on top. Play like a normal game.
-8. Goal: F⇧2. One of the other players should be beating the other. Take their side planet on the bottom. Repeat (all)↠F. (≈3:15 elapsed)
-9. Goal: A⇧3. Repeat (all)↠A. (≈4:45 elapsed)
-10. Goal: wipe out all other planets. You should have more than enough units for this.
+| Time | Goal                | Commands       | Details                                                                                                                                |
+|:-----|:--------------------|:---------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+|      | A⇧L3                | Repeat A↠A     |                                                                                                                                        |
+|      | B⇧L1                | Repeat A↠B     |                                                                                                                                        |
+| 0:45 | C⇧L2                | Repeat (all)↠C |                                                                                                                                        |
+|      | Hoard units on B    | Repeat (all)↠B |                                                                                                                                        |
+| 1:30 | Lose A and C        | Wait.          |                                                                                                                                        |
+| 2:00 | D⇧3 and E⇧3         | B/2→D, B/2→E   | Split the units from B in half and send each one horizontally through the force field, then near their respective planets, and ambush. |
+|      | Take entire top row |                | Play like a normal game to take all 6 plaents in the top row.                                                                                                               |
+| 3:15 | F⇧2                 | Repeat (all)↠F | One of the other players should be beating the other. Take their side planet on the bottom.                                            |
+| 4:45 | A⇧3                 | Repeat (all)↠A |                                                                                                                                        |
+|      | Win                 |                | You should have more than enough units for this.                                                                                       |
 
 ## Stats
 
