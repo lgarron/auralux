@@ -10,9 +10,9 @@
 
 ## Steps
 
-1. Goal: A⇧L3: Repeat A↠A.
-2. Goal: B⇧L1: Repeat A↠B.
-3. Goal: C⇧L2: Repeat (all)↠C. (≈0:45 elapsed)
+1. Goal: A⇧L3. Repeat A↠A.
+2. Goal: B⇧L1. Repeat A↠B.
+3. Goal: C⇧L2. Repeat (all)↠C. (≈0:45 elapsed)
 4. Goal: Hoard units on B. Repeat (all)↠B.
 5. Goal: Lose A and C. Wait for other players to wipe them out. (≈1:30 elapsed)
 6. Goal: D⇧3 and E⇧3. Split the units from B in half and send each one horizontally through the force field, then near their respective planets, and ambush. (≈2:00 elapsed)
@@ -29,3 +29,4 @@
 ## Notes
 
 - ⁴ I hoard all units on C until one of the other players attacks, then immediately move all units to B. This is intended to delay attacks from other players, though I don't know if it works.
+- ⁸ You may need to target units to the far to the side. Targeting F directly loses units into the middle due to the force field.
